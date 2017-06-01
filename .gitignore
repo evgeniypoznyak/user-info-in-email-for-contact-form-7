@@ -1,0 +1,9 @@
+# Ignore everything
+*
+# But not these files...
+!.gitignore
+!readme.txt
+!user-info-in-email-for-contact-form-7.php
+
+# ...even if they are in subdirectories
+#!*/
