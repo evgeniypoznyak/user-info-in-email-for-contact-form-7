@@ -1,5 +1,5 @@
 === User Info In Email For Contact Form 7 ===
-Contributors: evgeniyjunior
+Contributors: evgeniypoznyak
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MC4A5YZXGFWRG
 Tags: email, cf7, cf, contact form, contact form 7, ip, user ip, user detailed info, user info, customer information, information, customer, woocomerce, order, shortcode, user address
 Requires at least: 3.1
